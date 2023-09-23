@@ -28,6 +28,3 @@ Feel free to fork this project and submit pull requests or raise issues if you f
 ## License
 
 [MIT License](LICENSE.md)
-
----
-I Hope this tool proves beneficial in streamlining your large-map Unity project workflows!
