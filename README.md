@@ -6,7 +6,6 @@ This tool provides an efficient way to identify and list inactive static objects
 
 1. **List Inactive Static Objects**: Quickly identify objects that are static but not active in the hierarchy.
 2. **Ignore Specific Objects**: Define specific names or transforms to exclude from the search, giving you the flexibility to focus on what matters.
-3. **Intuitive UI**: Easily accessible from the Unity editor window and comes with a user-friendly interface.
 
 ## Installation
 
